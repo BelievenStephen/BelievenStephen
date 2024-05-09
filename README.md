@@ -45,7 +45,3 @@
 <!---
 
 --->
----
-
-[BelievenStephen](https://github.com/BelievenStephen)
-Last Edited on: 04/30/2024 format.
