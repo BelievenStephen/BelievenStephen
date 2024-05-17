@@ -4,7 +4,6 @@
   </a>
 </p>
 
-
 <a href="https://www.linkedin.com/in/stephengeluz/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -19,6 +18,7 @@
 - 👨‍💻 I am open to exploring opportunities in more technology-focused roles.
 - 🎓 I received my undergraduate degrees in **Software Engineering and Business Management.**
 - 🏈 Diehard Vikings Fan. **SKOL!**
+
 <h2>  // Certifications  </h2>
 
 - ☁️ **AWS Certified Cloud Practitioner**
@@ -41,9 +41,5 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  
 
-
-<!---
-
---->
+</div>
